@@ -2,7 +2,7 @@ package com.example.murota_lab.samplegit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-/**git!?**/
+/**git22222**/
 
 public class MainActivity extends AppCompatActivity {
 
