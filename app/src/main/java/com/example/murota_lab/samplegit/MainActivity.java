@@ -3,6 +3,7 @@ package com.example.murota_lab.samplegit;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 /**git!?**/
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
